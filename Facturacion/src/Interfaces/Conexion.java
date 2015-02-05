@@ -4,6 +4,7 @@
  */
 package Interfaces;
 //MODIFICADO POR DANIEL PAUCAR
+//conectado a la base de datos FACTURACION
 import java.sql.Connection;
 import java.sql.DriverManager;
 import javax.swing.JOptionPane;
