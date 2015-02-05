@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 package Interfaces;
-
+//MODIFICADO POR DANIEL PAUCAR
 import java.sql.Connection;
 import java.sql.DriverManager;
 import javax.swing.JOptionPane;
