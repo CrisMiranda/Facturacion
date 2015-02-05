@@ -3,7 +3,8 @@
  * and open the template in the editor.
  */
 package Interfaces;
-//MODIFICADO POR DANIEL PAUCAR,conectado a la base de datos FACTURACION
+//MODIFICADO POR DANIEL PAUCAR
+//conectado a la base de datos FACTURACION
 //CONFIGURACION
 import java.sql.Connection;
 import java.sql.DriverManager;
