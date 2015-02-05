@@ -4,6 +4,7 @@
  */
 
 //El archivo se actualizo
+//Actualizado por DANIEL PAUCAR
 package Interfaces;
 import java.sql.Connection;
 import java.sql.DriverManager;
